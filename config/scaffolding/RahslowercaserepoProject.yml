@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: RahslowercaserepoProject
+  gitServerName: RAHS_GH_IBMAccount
+  gitUrl: https://github.com/rahul-singh-IBM-68
+  gitUsername: rahul-singh-IBM-68
+  gitBranch: main
